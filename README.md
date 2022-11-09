@@ -1,1 +1,1 @@
-# unsupervised_machine_learning_challenge
+This is a challenge to use my understanding of unsupervised machine learning to create a model that can reduce the dimensionality of a set of data into something this interpretable. From this point a KMeans analysis was done to determine the amount of clusters that were appropriate for this data. 
